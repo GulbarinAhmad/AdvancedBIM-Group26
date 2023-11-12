@@ -10,8 +10,6 @@ The goal of LCA is to understand and minimize the building's environmental footp
 
 In using Building Information Modeling (BIM) to support the goal of performing an LCA of the building, it is important to identify the necessary BIM applications and usage scenarios. These will help shape the development of the tool and the workflow. Integration of LCA data and processes in BIM to evaluate the environmental impact of the building throughout its lifetime.
 
-
-
 ## 3B: Tool / Workflow
 
 ###### 3. Process Diagram
@@ -25,8 +23,6 @@ In using Building Information Modeling (BIM) to support the goal of performing a
 The process begins with the user modifying the BIM model to ensure its suitability for Life Cycle Assessment (LCA), taking into account the impact of different materials, such as various insulation materials with potentially significant variations in environmental impact. Subsequently, the BIM file is exported into our tool as an Industry Foundation Classes (IFC) file. The tool then performs simplified calculations of quantities and material properties to provide a straightforward LCA assessment. Additionally, energy framing is calculated by using energy and daylight simulation tools e.g. IDA ICE. Ideally, the code could incorporate Environmental Product Declarations (EPDs) for the materials utilized in the construction.
 
  
-
-
 
 ## 3D : Offered potential improvement
 
@@ -47,8 +43,6 @@ The concept of forecasting environmental impacts using IFC files and extracting 
 - Compliance and Reporting
 
 - Informed Sustainable Design
-
-
 
 ###### 8. Societal value:
 
@@ -71,15 +65,3 @@ This concept not only contributes to the environmental sustainability of buildin
 - Educational Opportunities
 
 - Community Engagement and Satisfaction
-
-
-
-
-
-
-
-
-
-
-
-
